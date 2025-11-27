@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is node Js learning basic to high level with practice code .",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paramp1031/nodeJs.git"
+  },
+  "author": "Paramhans Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paramp1031/nodeJs/issues"
+  },
+  "homepage": "https://github.com/paramp1031/nodeJs#readme"
+}
